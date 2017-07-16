@@ -1,10 +1,10 @@
 # mash
-a bash like shell in C
+a bash like shell in C<br>
 has basic commands for now..
 
-#run
-make
+# run
+make<br>
 ./mash
 
-#Todo
+# Todo
 add more functions like 'pipe' | 
