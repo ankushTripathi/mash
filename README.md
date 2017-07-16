@@ -1,5 +1,5 @@
 # mash
-a bash like shell in C<br>
+a basic shell in C<br>
 has basic commands for now..
 
 # run
