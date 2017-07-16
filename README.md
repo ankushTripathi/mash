@@ -7,4 +7,4 @@ make<br>
 ./mash
 
 # Todo
-add more functions like 'pipe' | 
+add more functions like 'pipe' | etc.,
